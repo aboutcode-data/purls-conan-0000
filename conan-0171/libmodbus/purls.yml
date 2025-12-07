@@ -1,0 +1,4 @@
+- pkg:conan/libmodbus@3.1.10
+- pkg:conan/libmodbus@3.1.11
+- pkg:conan/libmodbus@3.1.6
+- pkg:conan/libmodbus@3.1.8

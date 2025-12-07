@@ -1,0 +1,4 @@
+- pkg:conan/sentry-native@0.10.0
+- pkg:conan/sentry-native@0.11.3
+- pkg:conan/sentry-native@0.12.1
+- pkg:conan/sentry-native@0.12.2

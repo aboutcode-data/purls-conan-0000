@@ -1,0 +1,3 @@
+- pkg:conan/ffmpeg@4.4.6
+- pkg:conan/ffmpeg@7.1.3
+- pkg:conan/ffmpeg@8.0.1

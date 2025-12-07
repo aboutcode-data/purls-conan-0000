@@ -1,0 +1,5 @@
+- pkg:conan/sqlite3@3.44.2
+- pkg:conan/sqlite3@3.45.3
+- pkg:conan/sqlite3@3.49.2
+- pkg:conan/sqlite3@3.50.4
+- pkg:conan/sqlite3@3.51.0
