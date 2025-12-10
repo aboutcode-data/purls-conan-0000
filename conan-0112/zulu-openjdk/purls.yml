@@ -5,3 +5,4 @@
 - pkg:conan/zulu-openjdk@17.0.9
 - pkg:conan/zulu-openjdk@21.0.1
 - pkg:conan/zulu-openjdk@21.0.4
+- pkg:conan/zulu-openjdk@21.0.9
