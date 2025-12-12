@@ -5,3 +5,4 @@
 - pkg:conan/libpq@15.5
 - pkg:conan/libpq@16.8
 - pkg:conan/libpq@17.5
+- pkg:conan/libpq@17.7
