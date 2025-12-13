@@ -7,3 +7,4 @@
 - pkg:conan/mongo-c-driver@1.29.2
 - pkg:conan/mongo-c-driver@1.30.6
 - pkg:conan/mongo-c-driver@2.2.0
+- pkg:conan/mongo-c-driver@2.2.1
