@@ -1,1 +1,2 @@
 - pkg:conan/libgettext@0.22
+- pkg:conan/libgettext@0.26
