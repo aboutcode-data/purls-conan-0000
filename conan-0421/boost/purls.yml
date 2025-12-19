@@ -10,3 +10,4 @@
 - pkg:conan/boost@1.87.0
 - pkg:conan/boost@1.88.0
 - pkg:conan/boost@1.89.0
+- pkg:conan/boost@1.90.0
