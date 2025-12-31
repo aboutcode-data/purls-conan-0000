@@ -5,3 +5,4 @@
 - pkg:conan/catch2@2.13.8
 - pkg:conan/catch2@2.13.9
 - pkg:conan/catch2@3.11.0
+- pkg:conan/catch2@3.12.0
