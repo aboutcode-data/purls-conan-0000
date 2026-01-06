@@ -6,6 +6,7 @@
 - pkg:conan/spdlog@1.14.1
 - pkg:conan/spdlog@1.15.3
 - pkg:conan/spdlog@1.16.0
+- pkg:conan/spdlog@1.17.0
 - pkg:conan/spdlog@1.8.5
 - pkg:conan/spdlog@1.9.1
 - pkg:conan/spdlog@1.9.2
