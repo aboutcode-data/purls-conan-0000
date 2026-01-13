@@ -3,6 +3,7 @@
 - pkg:conan/meson@0.62.2
 - pkg:conan/meson@1.0.0
 - pkg:conan/meson@1.1.1
+- pkg:conan/meson@1.10.0
 - pkg:conan/meson@1.2.3
 - pkg:conan/meson@1.3.2
 - pkg:conan/meson@1.4.1

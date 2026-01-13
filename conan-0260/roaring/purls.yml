@@ -7,3 +7,4 @@
 - pkg:conan/roaring@4.1.7
 - pkg:conan/roaring@4.2.0
 - pkg:conan/roaring@4.2.1
+- pkg:conan/roaring@4.5.0
