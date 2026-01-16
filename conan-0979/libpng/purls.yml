@@ -1,3 +1,4 @@
 - pkg:conan/libpng@1.6.37
 - pkg:conan/libpng@1.6.40
 - pkg:conan/libpng@1.6.53
+- pkg:conan/libpng@1.6.54
