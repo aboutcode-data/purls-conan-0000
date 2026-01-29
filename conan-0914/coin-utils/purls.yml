@@ -1,4 +1,2 @@
-- pkg:conan/coin-utils@2.11.10
-- pkg:conan/coin-utils@2.11.4
-- pkg:conan/coin-utils@2.11.6
+- pkg:conan/coin-utils@2.11.12
 - pkg:conan/coin-utils@2.11.9
