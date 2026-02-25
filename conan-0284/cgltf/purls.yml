@@ -2,6 +2,7 @@
 - pkg:conan/cgltf@1.11
 - pkg:conan/cgltf@1.12
 - pkg:conan/cgltf@1.13
+- pkg:conan/cgltf@1.15
 - pkg:conan/cgltf@1.5
 - pkg:conan/cgltf@1.6
 - pkg:conan/cgltf@1.7

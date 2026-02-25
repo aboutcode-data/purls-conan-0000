@@ -3,3 +3,4 @@
 - pkg:conan/rapidjson@cci.20211112
 - pkg:conan/rapidjson@cci.20220822
 - pkg:conan/rapidjson@cci.20230929
+- pkg:conan/rapidjson@cci.20250205
