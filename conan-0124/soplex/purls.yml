@@ -8,3 +8,4 @@
 - pkg:conan/soplex@7.1.5
 - pkg:conan/soplex@7.1.6
 - pkg:conan/soplex@8.0.0
+- pkg:conan/soplex@8.0.1
