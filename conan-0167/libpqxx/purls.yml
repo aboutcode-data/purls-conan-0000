@@ -1,2 +1,1 @@
-- pkg:conan/libpqxx@6.4.8
-- pkg:conan/libpqxx@7.10.5
+- pkg:conan/libpqxx@8.0.0
