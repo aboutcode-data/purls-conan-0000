@@ -1,5 +1,2 @@
-- pkg:conan/glaze@6.0.1
-- pkg:conan/glaze@6.1.0
-- pkg:conan/glaze@6.2.0
 - pkg:conan/glaze@6.4.0
-- pkg:conan/glaze@7.0.2
+- pkg:conan/glaze@7.2.0
