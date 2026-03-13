@@ -1,5 +1,1 @@
-- pkg:conan/lightgbm@3.3.2
-- pkg:conan/lightgbm@3.3.5
-- pkg:conan/lightgbm@4.1.0
-- pkg:conan/lightgbm@4.2.0
-- pkg:conan/lightgbm@4.3.0
+- pkg:conan/lightgbm@4.6.0
