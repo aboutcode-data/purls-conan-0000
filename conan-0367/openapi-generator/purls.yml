@@ -4,6 +4,7 @@
 - pkg:conan/openapi-generator@7.15.0
 - pkg:conan/openapi-generator@7.16.0
 - pkg:conan/openapi-generator@7.17.0
+- pkg:conan/openapi-generator@7.20.0
 - pkg:conan/openapi-generator@7.4.0
 - pkg:conan/openapi-generator@7.5.0
 - pkg:conan/openapi-generator@7.8.0

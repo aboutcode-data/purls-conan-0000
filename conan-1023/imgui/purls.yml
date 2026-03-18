@@ -10,5 +10,5 @@
 - pkg:conan/imgui@1.91.8-docking
 - pkg:conan/imgui@1.92.2b
 - pkg:conan/imgui@1.92.2b-docking
-- pkg:conan/imgui@1.92.5
-- pkg:conan/imgui@1.92.5-docking
+- pkg:conan/imgui@1.92.6
+- pkg:conan/imgui@1.92.6-docking
