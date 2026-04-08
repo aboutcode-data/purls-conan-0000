@@ -5,3 +5,4 @@
 - pkg:conan/jwt-cpp@0.6.0
 - pkg:conan/jwt-cpp@0.7.0
 - pkg:conan/jwt-cpp@0.7.1
+- pkg:conan/jwt-cpp@0.7.2
