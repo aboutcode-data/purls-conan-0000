@@ -1,1 +1,2 @@
 - pkg:conan/librdkafka@2.13.0
+- pkg:conan/librdkafka@2.14.0
