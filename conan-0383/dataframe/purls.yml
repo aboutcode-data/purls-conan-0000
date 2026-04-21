@@ -11,3 +11,4 @@
 - pkg:conan/dataframe@3.6.0
 - pkg:conan/dataframe@3.7.0
 - pkg:conan/dataframe@4.0.0
+- pkg:conan/dataframe@4.0.1
