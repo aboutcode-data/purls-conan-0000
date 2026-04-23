@@ -5,3 +5,4 @@
 - pkg:conan/libarchive@3.7.7
 - pkg:conan/libarchive@3.7.9
 - pkg:conan/libarchive@3.8.1
+- pkg:conan/libarchive@3.8.7
