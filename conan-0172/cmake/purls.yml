@@ -1,2 +1,2 @@
-- pkg:conan/cmake@3.31.11
-- pkg:conan/cmake@4.3.0
+- pkg:conan/cmake@3.31.12
+- pkg:conan/cmake@4.3.2
