@@ -8,3 +8,4 @@
 - pkg:conan/mold@2.36.0
 - pkg:conan/mold@2.4.0
 - pkg:conan/mold@2.40.1
+- pkg:conan/mold@2.41.0
