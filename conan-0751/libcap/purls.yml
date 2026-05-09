@@ -13,3 +13,4 @@
 - pkg:conan/libcap@2.73
 - pkg:conan/libcap@2.75
 - pkg:conan/libcap@2.77
+- pkg:conan/libcap@2.78
