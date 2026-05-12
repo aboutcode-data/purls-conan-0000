@@ -1,4 +1,2 @@
-- pkg:conan/raylib@3.5.0
-- pkg:conan/raylib@4.0.0
-- pkg:conan/raylib@5.0
 - pkg:conan/raylib@5.5
+- pkg:conan/raylib@6.0

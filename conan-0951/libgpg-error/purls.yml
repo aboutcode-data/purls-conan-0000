@@ -1,2 +1,1 @@
-- pkg:conan/libgpg-error@1.36
-- pkg:conan/libgpg-error@1.47
+- pkg:conan/libgpg-error@1.61
