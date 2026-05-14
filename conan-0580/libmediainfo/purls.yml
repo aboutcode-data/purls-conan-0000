@@ -1,4 +1,1 @@
-- pkg:conan/libmediainfo@20.03
-- pkg:conan/libmediainfo@21.03
-- pkg:conan/libmediainfo@21.09
-- pkg:conan/libmediainfo@22.03
+- pkg:conan/libmediainfo@26.01
