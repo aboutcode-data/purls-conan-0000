@@ -1,4 +1,5 @@
 - pkg:conan/botan@2.19.5
 - pkg:conan/botan@3.11.0
 - pkg:conan/botan@3.11.1
+- pkg:conan/botan@3.12.0
 - pkg:conan/botan@3.7.1%2Brscs1
