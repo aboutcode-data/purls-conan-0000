@@ -1,1 +1,2 @@
 - pkg:conan/libfabric@1.21.0
+- pkg:conan/libfabric@2.5.1
