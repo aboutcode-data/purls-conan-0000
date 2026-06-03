@@ -8,4 +8,4 @@
 - pkg:conan/spirv-cross@1.4.309.0
 - pkg:conan/spirv-cross@1.4.313.0
 - pkg:conan/spirv-cross@1.4.321.0
-- pkg:conan/spirv-cross@cci.20211113
+- pkg:conan/spirv-cross@1.4.350.0
