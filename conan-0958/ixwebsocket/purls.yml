@@ -6,6 +6,7 @@
 - pkg:conan/ixwebsocket@11.4.3
 - pkg:conan/ixwebsocket@11.4.5
 - pkg:conan/ixwebsocket@11.4.6
+- pkg:conan/ixwebsocket@12.0.0
 - pkg:conan/ixwebsocket@7.9.2
 - pkg:conan/ixwebsocket@9.1.9
 - pkg:conan/ixwebsocket@9.6.4
