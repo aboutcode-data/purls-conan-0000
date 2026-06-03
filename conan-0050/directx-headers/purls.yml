@@ -1,3 +1,1 @@
-- pkg:conan/directx-headers@1.610.2
-- pkg:conan/directx-headers@1.614.0
-- pkg:conan/directx-headers@1.618.2
+- pkg:conan/directx-headers@1.619.1
