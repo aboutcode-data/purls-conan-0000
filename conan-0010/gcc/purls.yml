@@ -3,3 +3,4 @@
 - pkg:conan/gcc@12.2.0
 - pkg:conan/gcc@15.1.0
 - pkg:conan/gcc@15.2.0
+- pkg:conan/gcc@16.1.0
