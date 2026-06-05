@@ -2,4 +2,4 @@
 - pkg:conan/cpp-httplib@0.39.0
 - pkg:conan/cpp-httplib@0.44.0
 - pkg:conan/cpp-httplib@0.45.0
-- pkg:conan/cpp-httplib@0.46.0
+- pkg:conan/cpp-httplib@0.46.1
