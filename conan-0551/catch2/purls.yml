@@ -1,3 +1,2 @@
 - pkg:conan/catch2@2.13.10
-- pkg:conan/catch2@3.14.0
-- pkg:conan/catch2@3.15.0
+- pkg:conan/catch2@3.15.1
