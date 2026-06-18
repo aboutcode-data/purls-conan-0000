@@ -1,2 +1,1 @@
-- pkg:conan/foxglove-schemas-protobuf@0.1.0
-- pkg:conan/foxglove-schemas-protobuf@0.7.1
+- pkg:conan/foxglove-schemas-protobuf@0.25.1
