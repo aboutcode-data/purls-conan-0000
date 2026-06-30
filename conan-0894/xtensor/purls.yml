@@ -1,4 +1,2 @@
 - pkg:conan/xtensor@0.24.7
-- pkg:conan/xtensor@0.25.0
-- pkg:conan/xtensor@0.26.0
 - pkg:conan/xtensor@0.27.1
