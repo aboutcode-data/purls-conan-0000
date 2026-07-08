@@ -1,2 +1,3 @@
 - pkg:conan/libjxl@0.11.1
 - pkg:conan/libjxl@0.11.2
+- pkg:conan/libjxl@0.12.0
