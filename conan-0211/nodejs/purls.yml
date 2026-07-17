@@ -5,3 +5,4 @@
 - pkg:conan/nodejs@18.15.0
 - pkg:conan/nodejs@20.16.0
 - pkg:conan/nodejs@22.20.0
+- pkg:conan/nodejs@24.18.0
