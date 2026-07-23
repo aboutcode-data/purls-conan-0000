@@ -8,4 +8,4 @@
 - pkg:conan/mbedtls@3.6.0
 - pkg:conan/mbedtls@3.6.1
 - pkg:conan/mbedtls@3.6.2
-- pkg:conan/mbedtls@3.6.6
+- pkg:conan/mbedtls@3.6.7
