@@ -1,2 +1,3 @@
 - pkg:conan/neargye-semver@0.3.0
 - pkg:conan/neargye-semver@0.3.1
+- pkg:conan/neargye-semver@1.0.0
