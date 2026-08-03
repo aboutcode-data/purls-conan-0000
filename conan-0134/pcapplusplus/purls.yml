@@ -5,3 +5,4 @@
 - pkg:conan/pcapplusplus@23.09
 - pkg:conan/pcapplusplus@24.09
 - pkg:conan/pcapplusplus@25.05
+- pkg:conan/pcapplusplus@26.07
