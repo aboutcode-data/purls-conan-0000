@@ -1,1 +1,2 @@
 - pkg:conan/folly@2024.08.12.00
+- pkg:conan/folly@2026.07.06.00
