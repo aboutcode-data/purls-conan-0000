@@ -1,1 +1,2 @@
 - pkg:conan/tesseract@5.5.2
+- pkg:conan/tesseract@5.5.3
