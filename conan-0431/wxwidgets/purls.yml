@@ -1,2 +1,4 @@
 - pkg:conan/wxwidgets@3.2.10
+- pkg:conan/wxwidgets@3.2.11
 - pkg:conan/wxwidgets@3.3.2
+- pkg:conan/wxwidgets@3.3.3
