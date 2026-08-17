@@ -17,6 +17,7 @@
 - pkg:conan/android-ndk@r26d
 - pkg:conan/android-ndk@r27
 - pkg:conan/android-ndk@r27c
+- pkg:conan/android-ndk@r27d
 - pkg:conan/android-ndk@r28b
 - pkg:conan/android-ndk@r28c
 - pkg:conan/android-ndk@r29
