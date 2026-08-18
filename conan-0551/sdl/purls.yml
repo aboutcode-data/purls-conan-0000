@@ -1,3 +1,4 @@
 - pkg:conan/sdl@2.32.10
 - pkg:conan/sdl@3.4.0
+- pkg:conan/sdl@3.4.14
 - pkg:conan/sdl@3.4.8
