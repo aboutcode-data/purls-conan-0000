@@ -2,3 +2,4 @@
 - pkg:conan/utfcpp@4.0.5
 - pkg:conan/utfcpp@4.0.9
 - pkg:conan/utfcpp@4.1.1
+- pkg:conan/utfcpp@4.2.0
