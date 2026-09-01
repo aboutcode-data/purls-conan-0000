@@ -1,6 +1,1 @@
-- pkg:conan/glaze@6.4.0
-- pkg:conan/glaze@7.2.0
-- pkg:conan/glaze@7.4.0
-- pkg:conan/glaze@7.7.1
-- pkg:conan/glaze@7.8.4
-- pkg:conan/glaze@8.0.0
+- pkg:conan/glaze@8.3.0
