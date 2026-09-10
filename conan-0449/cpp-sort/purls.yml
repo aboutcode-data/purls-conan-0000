@@ -9,4 +9,6 @@
 - pkg:conan/cpp-sort@1.15.0
 - pkg:conan/cpp-sort@1.16.0
 - pkg:conan/cpp-sort@1.17.0
+- pkg:conan/cpp-sort@1.17.3
 - pkg:conan/cpp-sort@2.0.0
+- pkg:conan/cpp-sort@2.2.0
