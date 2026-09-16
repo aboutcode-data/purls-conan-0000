@@ -1,3 +1,4 @@
 - pkg:conan/readerwriterqueue@1.0.3
 - pkg:conan/readerwriterqueue@1.0.5
 - pkg:conan/readerwriterqueue@1.0.6
+- pkg:conan/readerwriterqueue@1.0.7
