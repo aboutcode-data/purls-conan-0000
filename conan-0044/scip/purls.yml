@@ -1,2 +1,3 @@
 - pkg:conan/scip@10.0.2
 - pkg:conan/scip@10.0.3
+- pkg:conan/scip@10.1.0
