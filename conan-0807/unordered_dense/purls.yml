@@ -18,3 +18,4 @@
 - pkg:conan/unordered_dense@4.9.0
 - pkg:conan/unordered_dense@4.9.2
 - pkg:conan/unordered_dense@5.0.1
+- pkg:conan/unordered_dense@5.2.0
