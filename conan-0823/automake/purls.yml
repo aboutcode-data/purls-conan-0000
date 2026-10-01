@@ -1,1 +1,2 @@
 - pkg:conan/automake@1.16.5
+- pkg:conan/automake@1.19
