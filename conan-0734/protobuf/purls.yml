@@ -1,4 +1,5 @@
 - pkg:conan/protobuf@3.21.12
 - pkg:conan/protobuf@5.29.6
 - pkg:conan/protobuf@6.33.5
-- pkg:conan/protobuf@7.35.0
+- pkg:conan/protobuf@7.35.1
+- pkg:conan/protobuf@7.36.2
