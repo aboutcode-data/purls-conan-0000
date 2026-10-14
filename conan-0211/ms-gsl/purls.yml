@@ -6,3 +6,4 @@
 - pkg:conan/ms-gsl@4.1.0
 - pkg:conan/ms-gsl@4.2.0
 - pkg:conan/ms-gsl@4.2.2
+- pkg:conan/ms-gsl@5.0.1
