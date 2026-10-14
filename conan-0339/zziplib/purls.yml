@@ -1,3 +1,4 @@
 - pkg:conan/zziplib@0.13.71
 - pkg:conan/zziplib@0.13.72
 - pkg:conan/zziplib@0.13.78
+- pkg:conan/zziplib@0.13.80
