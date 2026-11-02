@@ -4,3 +4,4 @@
 - pkg:conan/openssl@3.5.9
 - pkg:conan/openssl@3.6.5
 - pkg:conan/openssl@4.0.3
+- pkg:conan/openssl@4.1.0
