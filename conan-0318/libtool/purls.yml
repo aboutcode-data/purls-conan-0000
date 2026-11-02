@@ -1,1 +1,2 @@
 - pkg:conan/libtool@2.4.7
+- pkg:conan/libtool@2.6.2
