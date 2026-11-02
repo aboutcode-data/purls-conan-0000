@@ -9,3 +9,4 @@
 - pkg:conan/xtl@0.7.5
 - pkg:conan/xtl@0.7.6
 - pkg:conan/xtl@0.8.0
+- pkg:conan/xtl@0.8.2
