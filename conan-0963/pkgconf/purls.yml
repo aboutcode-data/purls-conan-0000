@@ -5,3 +5,4 @@
 - pkg:conan/pkgconf@2.1.0
 - pkg:conan/pkgconf@2.2.0
 - pkg:conan/pkgconf@2.5.1
+- pkg:conan/pkgconf@3.0.7
