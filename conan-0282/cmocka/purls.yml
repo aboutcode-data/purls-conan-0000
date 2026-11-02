@@ -1,3 +1,2 @@
-- pkg:conan/cmocka@1.1.5
-- pkg:conan/cmocka@1.1.7
 - pkg:conan/cmocka@1.1.8
+- pkg:conan/cmocka@2.0.2
