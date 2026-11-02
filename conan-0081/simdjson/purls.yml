@@ -1,2 +1,4 @@
 - pkg:conan/simdjson@3.13.0
 - pkg:conan/simdjson@4.6.4
+- pkg:conan/simdjson@5.0.5
+- pkg:conan/simdjson@5.1.1
