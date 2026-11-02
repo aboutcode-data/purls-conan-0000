@@ -9,3 +9,4 @@
 - pkg:conan/abseil@20250814.2
 - pkg:conan/abseil@20260107.1
 - pkg:conan/abseil@20260526.0
+- pkg:conan/abseil@20260817.0
