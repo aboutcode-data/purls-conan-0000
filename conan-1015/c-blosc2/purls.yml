@@ -1,2 +1,2 @@
 - pkg:conan/c-blosc2@2.23.1
-- pkg:conan/c-blosc2@3.1.2
+- pkg:conan/c-blosc2@3.4.1
