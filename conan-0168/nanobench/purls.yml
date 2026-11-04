@@ -5,3 +5,4 @@
 - pkg:conan/nanobench@4.3.6
 - pkg:conan/nanobench@4.3.7
 - pkg:conan/nanobench@4.3.9
+- pkg:conan/nanobench@4.6.0
