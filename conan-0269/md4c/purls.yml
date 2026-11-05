@@ -1,3 +1,2 @@
-- pkg:conan/md4c@0.4.8
-- pkg:conan/md4c@0.5.1
-- pkg:conan/md4c@0.5.2
+- pkg:conan/md4c@0.5.3
+- pkg:conan/md4c@0.6.0
