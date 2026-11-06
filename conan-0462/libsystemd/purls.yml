@@ -3,3 +3,4 @@
 - pkg:conan/libsystemd@255
 - pkg:conan/libsystemd@255.10
 - pkg:conan/libsystemd@255.2
+- pkg:conan/libsystemd@262.2
