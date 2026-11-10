@@ -2,3 +2,4 @@
 - pkg:conan/z3@4.13.4
 - pkg:conan/z3@4.14.1
 - pkg:conan/z3@4.15.4
+- pkg:conan/z3@4.16.0
