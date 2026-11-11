@@ -1,1 +1,2 @@
 - pkg:conan/odbc@2.3.11
+- pkg:conan/odbc@2.3.14
