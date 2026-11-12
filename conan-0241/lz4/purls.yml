@@ -1,3 +1,4 @@
 - pkg:conan/lz4@1.10.0
+- pkg:conan/lz4@1.11.1
 - pkg:conan/lz4@1.9.3
 - pkg:conan/lz4@1.9.4
