@@ -1,2 +1,3 @@
 - pkg:conan/tgbot@1.13
 - pkg:conan/tgbot@1.13.1
+- pkg:conan/tgbot@1.14
