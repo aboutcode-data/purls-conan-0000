@@ -3,3 +3,4 @@
 - pkg:conan/libsrtp@2.4.2
 - pkg:conan/libsrtp@2.5.0
 - pkg:conan/libsrtp@2.6.0
+- pkg:conan/libsrtp@2.8.1
