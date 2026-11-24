@@ -9,4 +9,6 @@
 - pkg:conan/taocpp-pegtl@3.2.6
 - pkg:conan/taocpp-pegtl@3.2.7
 - pkg:conan/taocpp-pegtl@3.2.8
+- pkg:conan/taocpp-pegtl@3.2.9
 - pkg:conan/taocpp-pegtl@4.0.1
+- pkg:conan/taocpp-pegtl@4.0.2
