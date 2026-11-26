@@ -1,1 +1,2 @@
 - pkg:conan/duckdb@1.5.6
+- pkg:conan/duckdb@2.0.1
