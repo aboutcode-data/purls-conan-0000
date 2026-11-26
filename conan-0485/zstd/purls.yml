@@ -3,3 +3,4 @@
 - pkg:conan/zstd@1.5.5
 - pkg:conan/zstd@1.5.6
 - pkg:conan/zstd@1.5.7
+- pkg:conan/zstd@1.6.0
